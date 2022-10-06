@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "NewTestProject.Core.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NewTestProject.Core.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NewTestProject.Core.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewTestProject.Core.Entity/1.0.0": {
+      "type": "project",
+      "path": "../NewTestProject.Core.Entity/NewTestProject.Core.Entity.csproj",
+      "msbuildProject": "../NewTestProject.Core.Entity/NewTestProject.Core.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "NewTestProject.Core.Entity >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\charl\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\charl\\RiderProjects\\MovieTestProject\\NewTestProject.Core.Service\\NewTestProject.Core.Service.csproj",
+      "projectName": "NewTestProject.Core.Service",
+      "projectPath": "C:\\Users\\charl\\RiderProjects\\MovieTestProject\\NewTestProject.Core.Service\\NewTestProject.Core.Service.csproj",
+      "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\charl\\RiderProjects\\MovieTestProject\\NewTestProject.Core.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\charl\\RiderProjects\\MovieTestProject\\NewTestProject.Core.Entity\\NewTestProject.Core.Entity.csproj": {
+              "projectPath": "C:\\Users\\charl\\RiderProjects\\MovieTestProject\\NewTestProject.Core.Entity\\NewTestProject.Core.Entity.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

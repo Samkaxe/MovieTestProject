@@ -1,0 +1,17 @@
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\bin\Debug\net6.0\NewTestProject.Infrastructure.deps.json
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\bin\Debug\net6.0\NewTestProject.Infrastructure.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\bin\Debug\net6.0\NewTestProject.Infrastructure.pdb
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\bin\Debug\net6.0\NewTestProject.Core.Entity.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\bin\Debug\net6.0\NewTestProject.Core.Service.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\bin\Debug\net6.0\NewTestProject.Core.Entity.pdb
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\bin\Debug\net6.0\NewTestProject.Core.Service.pdb
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\obj\Debug\net6.0\NewTestProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\obj\Debug\net6.0\NewTestProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\obj\Debug\net6.0\NewTestProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\obj\Debug\net6.0\NewTestProject.Infrastructure.AssemblyInfo.cs
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\obj\Debug\net6.0\NewTestProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\obj\Debug\net6.0\NewTestProject.Infrastructure.csproj.CopyComplete
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\obj\Debug\net6.0\NewTestProject.Infrastructure.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\obj\Debug\net6.0\refint\NewTestProject.Infrastructure.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\obj\Debug\net6.0\NewTestProject.Infrastructure.pdb
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Infrastructure\obj\Debug\net6.0\ref\NewTestProject.Infrastructure.dll

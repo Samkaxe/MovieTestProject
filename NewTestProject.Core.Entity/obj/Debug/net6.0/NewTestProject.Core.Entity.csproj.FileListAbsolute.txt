@@ -1,0 +1,12 @@
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\bin\Debug\net6.0\NewTestProject.Core.Entity.deps.json
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\bin\Debug\net6.0\NewTestProject.Core.Entity.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\bin\Debug\net6.0\NewTestProject.Core.Entity.pdb
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\obj\Debug\net6.0\NewTestProject.Core.Entity.csproj.AssemblyReference.cache
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\obj\Debug\net6.0\NewTestProject.Core.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\obj\Debug\net6.0\NewTestProject.Core.Entity.AssemblyInfoInputs.cache
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\obj\Debug\net6.0\NewTestProject.Core.Entity.AssemblyInfo.cs
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\obj\Debug\net6.0\NewTestProject.Core.Entity.csproj.CoreCompileInputs.cache
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\obj\Debug\net6.0\NewTestProject.Core.Entity.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\obj\Debug\net6.0\refint\NewTestProject.Core.Entity.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\obj\Debug\net6.0\NewTestProject.Core.Entity.pdb
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Entity\obj\Debug\net6.0\ref\NewTestProject.Core.Entity.dll

@@ -1,0 +1,15 @@
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\bin\Debug\net6.0\NewTestProject.Core.Service.deps.json
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\bin\Debug\net6.0\NewTestProject.Core.Service.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\bin\Debug\net6.0\NewTestProject.Core.Service.pdb
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\bin\Debug\net6.0\NewTestProject.Core.Entity.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\bin\Debug\net6.0\NewTestProject.Core.Entity.pdb
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\obj\Debug\net6.0\NewTestProject.Core.Service.csproj.AssemblyReference.cache
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\obj\Debug\net6.0\NewTestProject.Core.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\obj\Debug\net6.0\NewTestProject.Core.Service.AssemblyInfoInputs.cache
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\obj\Debug\net6.0\NewTestProject.Core.Service.AssemblyInfo.cs
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\obj\Debug\net6.0\NewTestProject.Core.Service.csproj.CoreCompileInputs.cache
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\obj\Debug\net6.0\NewTestProject.Core.Service.csproj.CopyComplete
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\obj\Debug\net6.0\NewTestProject.Core.Service.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\obj\Debug\net6.0\refint\NewTestProject.Core.Service.dll
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\obj\Debug\net6.0\NewTestProject.Core.Service.pdb
+C:\Users\charl\RiderProjects\MovieTestProject\NewTestProject.Core.Service\obj\Debug\net6.0\ref\NewTestProject.Core.Service.dll
